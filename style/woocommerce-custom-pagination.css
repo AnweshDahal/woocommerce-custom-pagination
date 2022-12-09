@@ -28,13 +28,13 @@ nav.woocommerce-pagination {
 }
 
 /* list containing page numbers */
-ul.page-numbers{
+.woocommerce nav.woocommerce-pagination ul{
   border: none;
   height: 30px;
 }
 
 /* list element nested in the unordered list */
-ul.page-numbers li{
+.woocommerce nav.woocommerce-pagination ul li{
   display: block;
   border-right: none;
   border-radius: 15px;
